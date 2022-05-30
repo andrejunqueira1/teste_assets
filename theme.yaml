@@ -1,0 +1,11 @@
+app:
+  app_name: 'teste white label'
+  bundle_id: 'com.white.label.test'
+  theme:
+    primary_color: '#000'
+    secondary_color: '#ffff'
+    tertiary_color: '#ffff'
+    splash_background: '#ffff'
+  assets:
+    app_image: '' #should be 1024 x 1024
+    splash_screen_image: ''
