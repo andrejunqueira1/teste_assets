@@ -1,6 +1,6 @@
 app:
   app_name: 'teste white label'
-  bundle_id: 'com.white.label.test'
+  bundle_id: 'com.gruvi.white.label'
   theme:
     primary_color: '#2592FA'
     secondary_color: '#ffff'
